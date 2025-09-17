@@ -1,7 +1,7 @@
 # 🩺 Breast Cancer Mass Classification
 
 This is a **Streamlit app** that uses a pretrained **DenseNet121** model to classify breast cancer masses from mammogram images.
-Deployed URL : 
+Deployed URL : https://breastcancerdetection-jbhvbtfp6q3xjjgvun5ein.streamlit.app
 
 ---
 
